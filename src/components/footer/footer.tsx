@@ -15,9 +15,8 @@ const Footer: FC = () => {
       <Box sx={{ display: 'flex', alignItems: 'center' }}>
         <Typography variant="subtitle1">Made with</Typography>
         <FavoriteIcon sx={{ color: '#ff3636', fontSize: 18, margin: '0 4px' }} />
-        <Typography variant="subtitle1">at South Beach</Typography>
       </Box>
-      <Typography variant="subtitle1">Pelabuhanratu, Indonesia</Typography>
+      <Typography variant="subtitle1">VividSun-V</Typography>
     </Box>
   );
 };
